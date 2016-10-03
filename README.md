@@ -1,2 +1,1 @@
-# AI
-AI projects
+# Foundations of AI CS5100
